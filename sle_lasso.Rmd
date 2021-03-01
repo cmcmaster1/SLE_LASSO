@@ -124,6 +124,11 @@ lambda_plot +
   geom_vline(xintercept = 0.1, size = 2, alpha = 0.5)
 ```
 
+# **Lupus or not? SLE Risk Probability Index (SLERPI): a simple, clinician-friendly machine learning-based model to assist the diagnosis of systemic lupus erythematosus**
+
+**Rationale:** we have several classification criteria for SLE, but no diagnostic criteria. \
+Maybe "machine learning" can help ¯\\\_(ツ)\_/¯
+
 # Setting
 
 Pooled data from two hospitals in **Greece** with established SLE registries.
