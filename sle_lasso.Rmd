@@ -60,7 +60,7 @@ knitr::include_graphics("images/iris.jpg")
 
 ```{r echo=FALSE}
 knitr::kable(head(iris)) %>% 
-  kableExtra::kable_styling(bootstrap_options = "striped", full_width = F)
+  kableExtra::kable_classic(bootstrap_options = "striped", full_width = F)
 ```
 
 # Iris Dataset
@@ -337,30 +337,43 @@ knitr::kables(
 |--------------------------------------|----------------------------------------|
 | ![](images/unimelb.png){width="119"} | ![](AUSTIN_LOGO_CMYK.png){width="200"} |
 
-- Working in Rheumatology and Clinical Pharmacology (Medicines Optimisation Service)
-- Starting PhD
-  - Faculty of Engineering and Information Technology
-    - Centre for Digital Transformation of Health (MDHS)
-    - Melbourne Centre for Data Science
-  - Supervisors
-    - Dr Douglas Pires
-    - Prof Wendy Chapman
-    - A/Prof Russell Buchanan
-      
+-   Working in Rheumatology and Clinical Pharmacology (Medicines Optimisation Service)
+
+-   Starting PhD
+
+    -   Faculty of Engineering and Information Technology
+
+        -   Centre for Digital Transformation of Health (MDHS)
+        -   Melbourne Centre for Data Science
+
+    -   Supervisors
+
+        -   Dr Douglas Pires
+        -   Prof Wendy Chapman
+        -   A/Prof Russell Buchanan
+
 # My Own Research
 
 |                                      |                                        |
 |--------------------------------------|----------------------------------------|
 | ![](images/unimelb.png){width="119"} | ![](AUSTIN_LOGO_CMYK.png){width="200"} |
 
-- Working in Rheumatology and Clinical Pharmacology (Medicines Optimisation Service)
-- Starting PhD
-  - Research area
-    - Multi-model machine learning for prediction & detection
-      - Structured EMR data
-      - **Text**
-      - **Images**
-    - Adverse Drug Reactions
-      - Detection & prediction
-      - Focus on immune-related adverse events (irAEs)
-        - Detect, predict, study
+-   Working in Rheumatology and Clinical Pharmacology (Medicines Optimisation Service)
+
+-   Starting PhD
+
+    -   Research area
+
+        -   Multi-model machine learning for prediction & detection
+
+            -   Structured EMR data
+            -   **Text**
+            -   **Images**
+
+        -   Adverse Drug Reactions
+
+            -   Detection & prediction
+
+            -   Focus on immune-related adverse events (irAEs)
+
+                -   Detect, predict, study
