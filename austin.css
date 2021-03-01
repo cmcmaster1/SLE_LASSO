@@ -1,0 +1,40 @@
+body {
+  font-family: 'Karla', sans-serif;
+}
+
+h1 {
+  color: rgb(25, 19, 71);
+  font-size: 160%;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 700
+}
+
+.title {
+  margin-right: 200px;
+  color: rgb(25, 19, 71);
+}
+
+h2 {
+  color: rgb(74, 42, 114);
+  font-size: 160%;
+  font-weight: bold;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500
+}
+
+h3 {
+  color: rgb(74, 42, 114);
+  font-size: 130%;
+  font-weight: bold;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300
+}
+
+h4 {
+  color: rgb(74, 42, 114);
+  font-size: 120%;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300
+}
