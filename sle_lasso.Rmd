@@ -9,6 +9,7 @@ output:
     css: austin.css
     fig_width: 12
     fig_height: 8
+bibliography: references.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -377,3 +378,5 @@ knitr::kables(
             -   Focus on immune-related adverse events (irAEs)
 
                 -   Detect, predict, study
+
+McMaster, Christopher, David Liew, Claire Keith, Parnaz Aminian, and Albert Frauman. 2019. "A Machine-Learning Algorithm to Optimise Automated Adverse Drug Reaction Detection from Clinical Coding." Drug Saf. 42 (6): 721--25. <https://doi.org/10.1007/s40264-018-00794-y.>
